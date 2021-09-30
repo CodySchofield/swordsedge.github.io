@@ -3,7 +3,7 @@ a:visited {color: #000000}
 a:hover {color: #000000}
 
 body {font-family:monaco, sans-serif; background-color:#ede1b0;}
-p {background-color:#8c97bf; align: center; font-size:80%;}
+p {background-color:#8c97bf; align: center; font-size:80%; width: 80%;}
 
 .box-left { width:20%; align:left; }
 .box-right { width:20%; align:right; }
