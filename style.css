@@ -3,3 +3,5 @@ font-family:monaco, sans-serif;
 	a:visited {color: #000000}
 	a:hover {color: #000000}
 body {background-color:#ede1b0; font-size:15px;}
+.box-left { width:20%; float:left; }
+.box-right { width:20%; float:right; }
