@@ -1,10 +1,9 @@
-font-family:monaco, sans-serif;
 
 a:link; {font-family: monaco, sans-serif; align: center;color: #000000; background: #8c97bf; font-size: 20%;}
 a:visited {color: #000000}
 a:hover {color: #000000}
 
-body {background-color:#ede1b0; font-size:15px;}
+body {font-family:monaco, sans-serif; background-color:#ede1b0; font-size:15px;}
 p {background-color:#8c97bf; align: center;}
 
 .box-left { width:20%; float:left; }
