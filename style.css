@@ -1,7 +1,7 @@
 a:link; {align-content: center; color: #000000; background-color: #8c97bf; font-size: 20%; padding: 5%;}
 
 body {font-family:monaco, sans-serif; background-color:#ede1b0;}
-p {align-content: center;background-color:#8c97bf; font-size:80%; width: 80%;}
+p {align-content: center; background-color:#8c97bf; font-size:30px; width: 60%;}
 
 .box-left { width:20%; float: left; position: fixed;}
 .box-right { width:20%; float:right; position: fixed;}
