@@ -5,4 +5,4 @@ p {text-align:center; background-color:#8c97bf; font-size:50px; width:60%; left:
 
 .box-left {width:20%; left:0%; float:left; position: fixed;}
 .box-right {width:20%; left:80%; float:right; position: fixed;}
-.comic {width:60%; left:20%; z-index:2;}
+.comic {width:60%; position: relative; left:20%; z-index:2;}
