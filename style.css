@@ -8,4 +8,4 @@ p {padding-top:5px; padding-bottom:5px; text-align:center; background-color:#8c9
 .box-left {width:19%; left:.5%; float:left; position: fixed; top:14%;}
 .box-right {width:19%; left:80.5%; float:right; position: fixed; top:14%;}
 .comic {width:60%; position:relative; left:20%; z-index:2;}
-.cast {text-align:center; left:20%; position:relative; width:60%; background-color:#8c97bf;}
+.cast {padding-top:5px; padding-bottom:5px; text-align:center; left:20%; position:relative; width:60%; background-color:#8c97bf;}
