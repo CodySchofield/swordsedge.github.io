@@ -21,4 +21,4 @@ h1 {padding-top:5px; padding-bottom:5px;
 .box-left {width:19%; left:.5%; float:left; position: fixed; top:14%;}
 .box-right {width:19%; left:80.5%; float:right; position: fixed; top:14%;}
 .comic {width:60%; position:relative; left:20%; z-index:2;}
-.castpngs {width:200px;}
+.castpngs {width:200px; padding:5px;}
