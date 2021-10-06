@@ -5,7 +5,7 @@ a {color:#000000; font-size:40px; padding:30px; position:relative;}
 }
 .cast {
 	background-color:#8c97bf; text-align:center; font-size:20px;
-	width:60%;
+	width:60%; padding-top:0px;
 	left:20%; position:relative;
 	column-count:3;
 }
