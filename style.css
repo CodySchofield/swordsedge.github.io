@@ -8,5 +8,5 @@ h1 {padding-top:5px; padding-bottom:5px; text-align:center; background-color:#8c
 .box-left {width:19%; left:.5%; float:left; position: fixed; top:14%;}
 .box-right {width:19%; left:80.5%; float:right; position: fixed; top:14%;}
 .comic {width:60%; position:relative; left:20%; z-index:2;}
-.cast {position:relative; column-count:2; column-gap:0px; column-rule:4px}
+.cast {width:60%; position:relative; column-count:2; column-gap:0px; column-rule:4px}
 .castpngs {width:200px;}
