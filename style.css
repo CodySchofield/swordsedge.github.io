@@ -1,8 +1,11 @@
-a {color:#000000; font-size:40px; padding:30px; position:relative;}
+a {color:#000000;}
 .links {
 	height:13%; z-index:3; position:relative;
 	text-align:center; padding:10px; background-color:#8c97bf;
+	font-size:40px; position:relative;
 }
+a.links {padding:30px; }
+
 body {font-family:monaco, sans-serif; background-color:#ede1b0;}
 h1 {padding-top:5px; padding-bottom:5px;
 	text-align:center; background-color:#8c97bf;
