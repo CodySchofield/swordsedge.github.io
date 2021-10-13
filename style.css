@@ -37,4 +37,10 @@ h2 {font-size:30px; text-align:center;}
 	padding:30px;}
 .nav {
 	padding:30px; position:relative; left:28%;}
-#abt {padding:15px;}
+
+.about {
+	padding-top:5px; padding-bottom:5px;
+	text-align:center; background-color:#8c97bf;
+	font-size:20px; left:20%; position:relative;
+	width:50%; padding:5%;
+}
