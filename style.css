@@ -42,5 +42,6 @@ h2 {font-size:30px; text-align:center;}
 	padding-top:5px; padding-bottom:5px;
 	text-align:center; background-color:#8c97bf;
 	font-size:20px; left:20%; position:relative;
-	width:50%; padding:5%;
+	width:50%; padding-left:5%; padding-right:5%; 
+	padding-top:3%; padding-bottom:3%;
 }
