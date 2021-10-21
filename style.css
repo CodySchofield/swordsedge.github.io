@@ -48,5 +48,11 @@ h2 {font-size:30px; text-align:center;}
 	padding-top:3%; padding-bottom:3%;
 }
 .list {left:42%; text-align:left; position:relative;}
-.list2 {left:20%; text-align:left; position:relative;} /*i feel like there's a better way to do this? but align: center didn't work*/
-span {border-style: solid; border-width:5px; border:red;}
+.list2 {left:20%; text-align:left; position:relative;
+	border-style:solid; border-width:5px; border:red;
+} /*i feel like there's a better way to do this? but align: center didn't work*/
+
+.border {border-style:solid; border-color:#372c22; width:fit-content; padding:5px;}
+#fontstyle {font-style:italic;}
+#fontcolor {color:#192b67;}
+#margin {margin:20px;}
