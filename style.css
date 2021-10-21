@@ -48,4 +48,5 @@ h2 {font-size:30px; text-align:center;}
 	padding-top:3%; padding-bottom:3%;
 }
 .list {left:42%; text-align:left; position:relative;}
-.list2 {left:20%; text-align:left; position:relative;}
+.list2 {left:20%; text-align:left; position:relative;} /*i feel like there's a better way to do this? but align: center didn't work*/
+span {border-style: solid; border-width:5px; border:red;}
