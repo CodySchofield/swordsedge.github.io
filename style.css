@@ -47,4 +47,4 @@ h2 {font-size:30px; text-align:center;}
 	width:50%; padding-left:5%; padding-right:5%; 
 	padding-top:3%; padding-bottom:3%;
 }
-.list {text-align:center;}
+.list {text-align:center; position:relative;}
